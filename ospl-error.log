@@ -1,0 +1,30 @@
+========================================================================================
+Context     : TacticalPoint.TacticPointDataReaderImpl.take
+Date        : 2023-11-14T20:15:37+0700
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10348>
+Thread      : 16316
+Internals   : TacticPointDataReaderImpl.java/107/6.9.210323OSS///0
+----------------------------------------------------------------------------------------
+Report      : Already deleted: Entity already deleted.
+Internals   : org.opensplice.dds.dcps.ObjectImpl.get_user_object/ObjectImpl.java/65/9/1699967737.064012100
+========================================================================================
+Context     : TacticalPoint.TacticPointDataReaderImpl.take
+Date        : 2023-11-15T10:13:02+0700
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17512>
+Thread      : 11884
+Internals   : TacticPointDataReaderImpl.java/107/6.9.210323OSS///0
+----------------------------------------------------------------------------------------
+Report      : Already deleted: Entity already deleted.
+Internals   : org.opensplice.dds.dcps.ObjectImpl.get_user_object/ObjectImpl.java/65/9/1700017982.481031800
+========================================================================================
+Context     : TacticalPoint.TacticPointDataReaderImpl.take
+Date        : 2023-11-15T10:13:40+0700
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <1920>
+Thread      : 2648
+Internals   : TacticPointDataReaderImpl.java/107/6.9.210323OSS///0
+----------------------------------------------------------------------------------------
+Report      : Already deleted: Entity already deleted.
+Internals   : org.opensplice.dds.dcps.ObjectImpl.get_user_object/ObjectImpl.java/65/9/1700018020.939932200
